@@ -11,7 +11,7 @@
 
 Sou desenvolvedora com experiência em criação, manutenção e sustentação de aplicações web (Front-end e Full Stack). Tenho atuação prática na construção de interfaces responsivas, migração de dados e integração de APIs, além de vivência em arquiteturas MVC e componentes reutilizáveis.
 
-- 🔭 **Atualmente:** Focada em desenvolvimento Front-end avançado e integração de ferramentas de Inteligência Artificial / LLMs (Vibe Coding).
+- 🔭 **Atualmente:** Focada em me atualizar no mercados e integração de ferramentas de Inteligência Artificial / LLMs (Vibe Coding).
 - 🎓 **Educação:** Bacharelado em Sistemas de Informação no **IFAL** (8º período - Noturno).
 - 👩‍🏫 **Comunidade & Extensão:** Instrutora de minicursos no IFAL (*Introdução à Programação com JS* e *Programação e Simulação Física com Python/Pygame*).
 - 💬 **Pergunte-me sobre:** React, TypeScript, Python (Django), PHP (Laravel/CakePHP), Tailwind CSS e Docker.
